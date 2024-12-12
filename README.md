@@ -5,7 +5,7 @@ The codes for subgroup 1 are listed in folder 'Steady_State'
 1.
 
 Subgroup 2 - Escape time of motile cells assisted by diffusion
-The codes for subgroup 1 are listed in folder steady state
+The codes for subgroup 2 are listed in folder 'Escape'
 1. Main_sim.m - This is the main executable file for simulating multiple cell trajectories simultaneously
 2. Parameter_file.m - List of parameters are declared here.
 3. Ini.m - The initial location and the orientation of the cells are declared here.
